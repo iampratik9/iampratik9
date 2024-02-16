@@ -8,6 +8,7 @@
 
 
  <p><img src="https://github-readme-stats.vercel.app/api?username=iampratik9&theme=shadow_red&show_icons=true"></p>
+ <p><img src="https://github-repo-card.vercel.app/api?username=anuraghazra&theme=ahadow_red&show_icons=true)">
 
 
 ### My Social Media Handles
