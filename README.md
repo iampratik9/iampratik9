@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN.
 
 
- <p>https://github-readme-stats.vercel.app/api?username=iampratik9&theme=dark&show_icons=true</p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=iampratik9&theme=dark&show_icons=true"></p>
 
 
 ### My Social Media Handles
